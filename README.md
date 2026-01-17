@@ -5,7 +5,7 @@ Bitter peptides are short amino acid sequences linked to bitterness, nutritional
 ## ⚙️ Methodology
 
 <p align="center">
-  <img src="assets/meth.jpg" width="80%" alt="BitterEN Methodology Diagram">
+  <img src="assests/meth.jpg" width="80%" alt="BitterEN Methodology Diagram">
 </p>
 
 ```
